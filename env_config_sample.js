@@ -1,1 +1,0 @@
-// This is a sample for set config, build it in your develop enviroment.
